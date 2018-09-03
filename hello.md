@@ -10,3 +10,10 @@
 ## 파일 변경
 
 ## 스테이지 영역으로 올라가도록
+
+## branch 테스트
+- version2 브랜치를 생성하여 hello.md 파일을 수정한다.
+- 추후에 브랜치를 master로 병합한다.
+
+## version2 branch를 master로 merge!!!
+- 충돌 해결 완료.

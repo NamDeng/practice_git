@@ -17,3 +17,12 @@
 
 ## version2 branch를 master로 merge!!!
 - 충돌 해결 완료.
+
+## branch 공부중 (version3 branch)
+- 같은 파일을 수정하여 일부로 충돌이 발생하도록 하자.
+- 충돌이 발생할 경우 충돌 문제 해결 해보기....
+
+## version3 추가 저장
+- 충돌내기 직전.... master로 version2 > version3 하나하나 병합....
+
+## version3 branch to master branch merge
